@@ -1,3 +1,13 @@
+07/25/2018£º
+Experiment with matplot. It is more complicated than I expected. 
+===========================================================================================
+
+07/23/2018£º
+1. Fix some bugs that result in failing to read the English data.
+2. Collect the contribution of each word to the topics in an array called allPercentages
+3. Try some matplot visulizations. Fail
+===========================================================================================
+
 07/19/2018:
 1. Fix the function for rendering top representative narratives for each topic.
 2. Improve the folder structure of the project.
