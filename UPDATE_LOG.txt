@@ -1,0 +1,10 @@
+07/19/2018:
+1. Fix the function for rendering top representative narratives for each topic.
+2. Improve the folder structure of the project.
+3. Add the file of CATALOG.txt to keep track of the structure of the program, and UPDATE_LOG.txt to keep track of the version change.
+4. Add more customization possibilities to the project. Specifically:
+(1): Now you can just change the parameter of the language in the top of the code to handle different language data.
+(2): You can change the number of topics generated from the data
+(3): You can specify how many representative narrative you want to find for each topic
+5. Make the program read the translation instead of just the narrative if the language is not English.
+6. Update the README.txt for how to play with the parameters for customization.

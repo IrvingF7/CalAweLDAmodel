@@ -1,0 +1,9 @@
+numpy>=1.14.3
+pandas>=0.22.0
+pprint
+nltk>=3.2.5
+gensim>=3.4.0
+spacy>=2.0.11
+pyLDAvis>=2.1.1
+matplotlib>=2.2.2
+tweepy>=3.6.0
