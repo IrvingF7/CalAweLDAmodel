@@ -12,10 +12,11 @@ input: contains all the data files(csv and json format) that can be used to anal
 
 output: contains output files. Subfolders are created based on the language of the data. 
 Each subfolder contains:
-1. [language]_dominant_topic.csv: The most dominant topic for each narrative.
-2. [language]_frequency_topics.csv: The frequency of each topic being the most dominant topic for a narrative.
-3. [language]_representative_narratives.csv: The top representative narratives for each topic.
-4. [language[_topics.csv: The list of the topics and the percentages for each keyword in one topic.
+1. visualizations: The visulizations for topics, scaling with their percentage. All in png format with transparent backgroud.
+2. [language]_dominant_topic.csv: The most dominant topic for each narrative.
+3. [language]_frequency_topics.csv: The frequency of each topic being the most dominant topic for a narrative.
+4. [language]_representative_narratives.csv: The top representative narratives for each topic.
+5. [language[_topics.csv: The list of the topics and the percentages for each keyword in one topic.
 =============================================================================================
 
 Papers: academic papers for reference
