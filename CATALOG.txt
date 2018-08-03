@@ -1,26 +1,46 @@
 .idea: contains system files for jupyter notebook. Can ignore. Don't change anything inside.
+=============================================================================================
 
 .ipynb_checkpoints: contains system files for jupyter notebook. Can ignore. Don't change anything inside.
+=============================================================================================
+
+font: contains fonts for data visulization. Can ignore. Don't change anything inside.
+=============================================================================================
 
 input: contains all the data files(csv and json format) that can be used to analyze. Subfolders are created based on the language of the data.
+=============================================================================================
 
-output: contains output files, for now they are (1. Topics  2. the dominant topics for each narrative. 3. the most representative narrative for each 
-topic.) Subfolders are created based on the language of the data.
+output: contains output files. Subfolders are created based on the language of the data. 
+Each subfolder contains:
+1. [language]_dominant_topic.csv: The most dominant topic for each narrative.
+2. [language]_frequency_topics.csv: The frequency of each topic being the most dominant topic for a narrative.
+3. [language]_representative_narratives.csv: The top representative narratives for each topic.
+4. [language[_topics.csv: The list of the topics and the percentages for each keyword in one topic.
+=============================================================================================
 
 Papers: academic papers for reference
+=============================================================================================
 
 Screenshots: useful screenshots for presentation
+=============================================================================================
 
 LDAmodel_new.ipynb: the file that you can run.
+=============================================================================================
 
 LDAmodel_new.py: the file I used for debugging. Can ignore.
+=============================================================================================
 
 LDAmodel_old.ipynb: the obsolete version of the project. Can ignore.
+=============================================================================================
 
 README.txt: instructions on how to use this program.
+=============================================================================================
 
 UPDATE_LOG.txt: the log of the update of this program.
+=============================================================================================
 
 CATALOG.txt: contains descrptions of folders and files of this project
+=============================================================================================
 
 requirements.txt: contains all the required packages for running this project.
+=============================================================================================

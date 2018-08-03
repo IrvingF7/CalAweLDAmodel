@@ -1,5 +1,14 @@
+8/2/2018£º
+1. Update the catalog to be more specific about the output.
+2. Update the instruction to fix some bugs.
+===========================================================================================
+
+07/29/2018£º
+1.Added the feature to produce the frequency of each topic being the most dominant topic.
+===========================================================================================
+
 07/25/2018£º
-Experiment with matplot. It is more complicated than I expected. 
+1.Experiment with matplot. It is more complicated than I expected. 
 ===========================================================================================
 
 07/23/2018£º

@@ -122,19 +122,18 @@ It is all set and done.
 (1) Navigate to the folder contain the LDAmodel.ipynb
 
 (2) Enter:
-jupyter notebook LDAmodel_old.ipynb
-For now, please use the old version. The support for the new version will be added soon.
+jupyter notebook LDAmodel_new.ipynb
 
 (3) A new page in the broswer will appear, and you can run the code.
 
 (4) For running your own CSV/JSON file:
 ¢Ù: Go to https://www.csvjson.com/csv2json if it is a CSV. Convert it to a JSON.
 ¢Ú: Download or copy paste the JSON file to the corresponding folder in the input folder.
-¢Û: The parameters that you can play with:
+
+(5) The parameters that you can play with:
 dataName: the name of the data file you can analyze. For now it is just the language of the data.
 num_of_representatives: the number of representative narrative you want to show for each topic
 num_of_topics: the number of the topics you want to generate from the data
-¢Ü: Run the code.
 
 
 
